@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gameClock</string>
+    <string name="bottom_button_gameover">Game Over!</string>
+    <string name="top_button_gameover">Out of time!</string>
+    <string name="inputHint">Enter time in seconds. </string>
+    <string name="inputButtonText">GO</string>
+    <string name="toInputButtonText">Change Time</string>
+    <string name="theInputHint">Enter time (seconds)</string>
+    <string name="inputButton">GO</string>
+</resources>
